@@ -7,4 +7,6 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 #Video(id: integer, title: string, large_cover: string, small_cover: string, description: text)
-Video.create(title: 'Anchorman 2', large_cover: 'ssl.gstatic.com/movies/tbn_3f26ef4a6eaddae2.jpg?size=100x150', small_cover: 'ssl.gstatic.com/movies/tbn_3f26ef4a6eaddae2.jpg?size=100x150', description: 'Anchorman sequel starring Will Ferrel')
+Video.create(title: 'The Big Lebowski', large_cover: 'tmp/big_lebowski.jpg', small_cover: 'tmp/big_lebowski.jpg', description: 'Sometimes there is a man, i dont want to say a hero')
+Video.create(title: 'The Hunger Games', large_cover: 'tmp/hunger_games.jpg', small_cover: 'tmp/hunger_games.jpg', description: 'May the odds be ever in your favor')
+Video.create(title: 'The Hobbit', large_cover: 'tmp/hobbit.jpg', small_cover: 'tmp/hobbit.jpg', description: 'An unexpected journey')
